@@ -1,0 +1,17 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+
+canvas{
+    background: black;
+}
+
